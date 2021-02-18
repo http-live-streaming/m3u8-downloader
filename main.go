@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/henrysher/m3u8-downloader/dl"
+	"github.com/http-live-streaming/m3u8-downloader/dl"
 )
 
 var (

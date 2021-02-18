@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/url"
 
-	"github.com/henrysher/m3u8-downloader/tool"
+	"github.com/http-live-streaming/m3u8-downloader/tool"
 )
 
 type Result struct {

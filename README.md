@@ -1,6 +1,5 @@
-# M3U8
-
-M3U8 - a mini M3U8 downloader written in Golang for downloading and merging TS(Transport Stream) files.
+# m3u8 downloader ![Go](https://github.com/http-live-streaming/m3u8-downloader/workflows/Go/badge.svg?branch=master)
+A M3U8 downloader (CLI) written in Golang to download HTTP Live Streaming videos, forked from [oopsguy/m3u8](https://github.com/oopsguy/m3u8) with continuous updates.
 
 You only need to specify the flags(`u`, `o`, `c`) to run, downloader will automatically download all TS files and consolidate them into a single TS file.
 

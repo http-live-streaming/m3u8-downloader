@@ -13,40 +13,42 @@ You only need to specify the flags(`u`, `o`, `c`) to run, downloader will automa
 
 ## Usage
 
-### source
+### Build
 
 ```bash
-go run main.go -u=http://example.com/index.m3u8 -o=/data/example
+git clone https://github.com/http-live-streaming/m3u8-downloader.git
+cd m3u8-downloader && go build
 ```
 
-### binary:
+### Usage:
 
-Linux & MacOS
+Linux
 
 ```
-./m3u8 -u=http://example.com/index.m3u8 -o=/data/example
+./m3u8-downloader-linux -u=http://example.com/index.m3u8 -o=/data/example
 ```
 
 Windows PowerShell
 
 ```
-.\m3u8.exe -u="http://example.com/index.m3u8" -o="D:\data\example"
+.\m3u8-downloader-win.exe -u="http://example.com/index.m3u8" -o="D:\data\example"
+```
+
+MacOS
+
+```
+./m3u8-downloader-mac -u=http://example.com/index.m3u8 -o=/data/example
 ```
 
 ## Download
 
+[Build Artifacts](https://github.com/http-live-streaming/m3u8-downloader/actions)
 [Binary packages](https://github.com/http-live-streaming/m3u8-downloader/releases)
-
-## Screenshots
-
-![Demo](./screenshots/demo.gif)
 
 ## References
 
-- [TS科普 2 包头](https://blog.csdn.net/cabbage2008/article/details/49281729)
 - [HTTP Live Streaming draft-pantos-http-live-streaming-23](https://tools.ietf.org/html/draft-pantos-http-live-streaming-23#section-4.3.4.2)
 - [MPEG transport stream - Wikipedia](https://en.wikipedia.org/wiki/MPEG_transport_stream)
-
 
 ## License
 

@@ -1,0 +1,6 @@
+github.com/henrysher/m3u8-downloader/dl v0.0.0-20210218073319-8747e0b44734 h1:oxLVZv4++o6eSIYvHVcGAgqXEMqrO/8ZZVaXmV9wDHU=
+github.com/henrysher/m3u8-downloader/dl v0.0.0-20210218073319-8747e0b44734/go.mod h1:8PDqiqj430ZQG93E0fD+xO6SQH6oY8S+cYXuh8b2UqI=
+github.com/henrysher/m3u8-downloader/parse v0.0.0-20210218073319-8747e0b44734 h1:5XHgJqJ0mpY2z3/ZKHJooHHPr91LffKXK/BXzpsjguk=
+github.com/henrysher/m3u8-downloader/parse v0.0.0-20210218073319-8747e0b44734/go.mod h1:Nk8ilWRhhyL5+Pi3hdGGajfqIR5RHnssA7IKGy9yFdI=
+github.com/henrysher/m3u8-downloader/tool v0.0.0-20210218073319-8747e0b44734 h1:Ew07qcWgv0FmK2ixDxHDLtVaWCCo/DFWjcpK7+3QrEY=
+github.com/henrysher/m3u8-downloader/tool v0.0.0-20210218073319-8747e0b44734/go.mod h1:sGwwqKFh6LFTlOBODHyVlotZozunD3zncJeYBgGEzXw=

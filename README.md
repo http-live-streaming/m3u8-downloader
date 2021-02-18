@@ -42,8 +42,8 @@ MacOS
 
 ## Download
 
-[Build Artifacts](https://github.com/http-live-streaming/m3u8-downloader/actions)
-[Binary packages](https://github.com/http-live-streaming/m3u8-downloader/releases)
+- [Build Artifacts](https://github.com/http-live-streaming/m3u8-downloader/actions)
+- [Binary packages](https://github.com/http-live-streaming/m3u8-downloader/releases)
 
 ## References
 

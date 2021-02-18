@@ -1,4 +1,4 @@
-# m3u8 downloader ![Go](https://github.com/http-live-streaming/m3u8-downloader/workflows/Go/badge.svg?branch=master)
+# m3u8 downloader ![Go](https://github.com/http-live-streaming/m3u8-downloader/workflows/Go/badge.svg?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/http-live-streaming/m3u8-downloader)](https://goreportcard.com/report/github.com/http-live-streaming/m3u8-downloader)
 A M3U8 downloader (CLI) written in Golang to download HTTP Live Streaming videos, forked from [oopsguy/m3u8](https://github.com/oopsguy/m3u8) with continuous updates.
 
 You only need to specify the flags(`u`, `o`, `c`) to run, downloader will automatically download all TS files and consolidate them into a single TS file.

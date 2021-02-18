@@ -20,7 +20,12 @@ git clone https://github.com/http-live-streaming/m3u8-downloader.git
 cd m3u8-downloader && go build
 ```
 
-### Usage:
+### Download
+
+- [Build Artifacts](https://github.com/http-live-streaming/m3u8-downloader/actions)
+- [Release Packages](https://github.com/http-live-streaming/m3u8-downloader/releases)
+
+### Execution:
 
 Linux
 
@@ -39,11 +44,6 @@ MacOS
 ```
 ./m3u8-downloader-mac -u=http://example.com/index.m3u8 -o=/data/example
 ```
-
-## Download
-
-- [Build Artifacts](https://github.com/http-live-streaming/m3u8-downloader/actions)
-- [Release Packages](https://github.com/http-live-streaming/m3u8-downloader/releases)
 
 ## References
 
